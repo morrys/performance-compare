@@ -1,9 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import Form from './Form';
+import Form from './AppRelay';
+//import Form from './Form';
 // import Form from './FormikForm';
-// import Form from './App';
+//import Form from './App';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(<Form />, document.getElementById('root'));
